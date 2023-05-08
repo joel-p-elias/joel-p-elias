@@ -8,9 +8,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joel-p-elias&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)
-<br>![](https://github-readme-streak-stats.herokuapp.com/?user=joel-p-elias&theme=gotham&hide_border=true)
- 
- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-p-elias&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-p-elias&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br>
 
 ### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;✍️ quote  of the day<br>
 
