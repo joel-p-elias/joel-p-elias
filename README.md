@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-p-elias&theme=slateorange&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![](https://github-readme-streak-stats.herokuapp.com/?user=joel-p-elias&theme=slateorange&hide_border=true)<br/>
-### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;✍️ quote  of the day<br>
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; <!--✍️ quote  of the day<br>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
+-->
