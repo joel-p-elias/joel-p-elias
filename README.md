@@ -1,4 +1,4 @@
-<center> #  Hi, I'm Joel 👋 </center>
+<h1 align="center"> Hi, I'm Joel 👋</h1> 
 ## 💫 About Me:
 📜 i am persuing bachculer's in computer application at VIT,vellore <br>
 💻 currently working on a full stack project <br>
