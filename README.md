@@ -1,8 +1,9 @@
-<h1 align="center">&emsp; Hi, I'm Joel👋</h1>
+<h1 align="center">Hi, I'm Joel👋</h1>
+<h3 align="center">Relax Recharge Repeat </h3>
 
 ## About Me:
 📜 i am persuing bachculer's in computer application at VIT,vellore <br>
-💻 currently working on a full stack project <br>
+💻 i am currently learning python <br>
 🧠 non-programing knowledge: Crypto, Editing
 
 ## 💻 Technical skills:
