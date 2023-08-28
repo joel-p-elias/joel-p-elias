@@ -1,4 +1,4 @@
-#  Hi, I'm Joel 👋
+<center> #  Hi, I'm Joel 👋 </center>
 ## 💫 About Me:
 📜 i am persuing bachculer's in computer application at VIT,vellore <br>
 💻 currently working on a full stack project <br>
